@@ -4,4 +4,4 @@ game 'gta5'
 description 'arabcodingteam'
 version '1.0'
 
-client_script command.lua'
+client_script 'command.lua'
