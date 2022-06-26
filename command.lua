@@ -1,3 +1,6 @@
+local QBCore = exports['qb-core']:GetCoreObject()
+
+
 RegisterCommand('rep', function()
 	local src = source
 	local Player = QBCore.Functions.GetPlayerData(src)
