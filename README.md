@@ -10,7 +10,7 @@ RegisterCommand('rep', function()
     TriggerEvent('chat:addMessage', {
         color = { 255, 0, 0},
         multiline = true,
-        args = {"Your Crafting Level : " ..rep}
+        args = {"Your Crafting Level : " .. rep}
     })
 end)
 ```
