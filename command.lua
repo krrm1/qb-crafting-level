@@ -1,4 +1,4 @@
-local QBCore = exports['arabcodingteam-core']:GetCoreObject()
+local QBCore = exports['qb-core']:GetCoreObject()
 
 
 RegisterCommand('rep', function()
